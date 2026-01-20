@@ -8,3 +8,5 @@
 https://github.com/bemalykuma/CNI
 
 https://netgrader.it.kmitl.ac.th
+
+https://github.com/Phoz07/CNI_Lecture#
